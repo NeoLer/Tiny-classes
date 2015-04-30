@@ -1,7 +1,7 @@
 -- example of my 19-line Lua class system
 -- note: I don't recommend using it for anything big, because it lacks much functionality (for example classes in classes)
---       I'm working on another OOP system which will have much more features
---       I just thought it was neat that you're able to do something like this in 19 lines of Lua.
+--       Just something to show off really
+--       I just thought it was neat that you're able to do something like this in 19 lines of Lua
 
 require("tinyClass")
 
